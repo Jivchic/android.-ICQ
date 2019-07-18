@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ICQ</string>
+    <string name="labelAddress">Address</string>
+    <string name="labelSend">Message to send</string>
+    <string name="labelRecieve">Message In</string>
+    <string name="buttonSend">Send Message</string>
+    <string name="messageToSend">Input Message</string>
+</resources>
